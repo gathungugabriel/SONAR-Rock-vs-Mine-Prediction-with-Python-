@@ -38,7 +38,7 @@ Train the Random Forest classifier: Run the train_model.py script to train the c
 Make predictions: Use the predict_sample.py script to make predictions on new samples. Modify the sample variable in the script with your desired sample data, and run the script. The predicted class for the sample will be displayed.
 
 Inspiration
-This project was inspired by Siddhardhan's YouTube video tutorial on building a using Logistic Regression Model classifier. You can find the tutorial here:[https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6]. We implemented the concepts and techniques discussed in the tutorial to create this prediction system.
+This project was inspired by Siddhardhan's YouTube video tutorial on building a using Logistic Regression Model classifier. You can find the tutorial [here](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6). We implemented the concepts and techniques discussed in the tutorial to create this prediction system.
 
 Contributing
 Contributions to this project are welcome. If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
